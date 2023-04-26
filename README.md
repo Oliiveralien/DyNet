@@ -4,7 +4,7 @@
 Dynamic pruning along both Spatial and Channel dimensions.
 
 <p align="left">
-  <img src="https://github.com/Oliiveralien/MDCP/blob/main/figs/new_teaser_page-0001.jpg" width="70%">
+  <img src="https://github.com/Oliiveralien/DyNet/blob/main/imgs/flops_imgs.jpeg" width="70%">
 </p>
 
 

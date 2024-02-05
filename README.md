@@ -1,4 +1,4 @@
-# Multi-Dimensional Dynamic Pruning: Exploring Spatial and Channel Sparsity to Accelerate Inference (DyNet)
+# Multi-Dimensional Dynamic Pruning: Exploring Spatial and Channel Fuzzy Sparsity
 
 ## 🌟 Features
 Dynamic pruning along both Spatial and Channel dimensions.
@@ -8,5 +8,5 @@ Dynamic pruning along both Spatial and Channel dimensions.
 </p>
 
 
-- Code will be released ASAP~
+- Instructions will be released ASAP~
 

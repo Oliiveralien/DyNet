@@ -1,0 +1,8 @@
+setup.py
+sparse_conv2d_cuda.cpp
+sparse_conv2d_kernel.cu
+sparse_conv2d_cuda.egg-info/PKG-INFO
+sparse_conv2d_cuda.egg-info/SOURCES.txt
+sparse_conv2d_cuda.egg-info/dependency_links.txt
+sparse_conv2d_cuda.egg-info/not-zip-safe
+sparse_conv2d_cuda.egg-info/top_level.txt

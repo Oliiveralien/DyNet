@@ -1,0 +1,14 @@
+running install
+running bdist_egg
+running egg_info
+writing sparse_conv2d.egg-info/PKG-INFO
+writing dependency_links to sparse_conv2d.egg-info/dependency_links.txt
+writing top-level names to sparse_conv2d.egg-info/top_level.txt
+reading manifest file 'sparse_conv2d.egg-info/SOURCES.txt'
+writing manifest file 'sparse_conv2d.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-x86_64/egg
+running install_lib
+running build_py
+running build_ext
+building 'sparse_conv2d.sparse_conv2d_cpu' extension
+gcc -pthread -B /home/upc/anaconda2/envs/pytorch3.6+1.2/compiler_compat -Wl,--sysroot=/ -Wsign-compare -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/home/upc/anaconda2/envs/pytorch3.6+1.2/lib/python3.6/site-packages/torch/include -I/home/upc/anaconda2/envs/pytorch3.6+1.2/lib/python3.6/site-packages/torch/include/torch/csrc/api/include -I/home/upc/anaconda2/envs/pytorch3.6+1.2/lib/python3.6/site-packages/torch/include/TH -I/home/upc/anaconda2/envs/pytorch3.6+1.2/lib/python3.6/site-packages/torch/include/THC -I/home/upc/anaconda2/envs/pytorch3.6+1.2/include/python3.6m -c sparse_conv2d/src/sparse_conv2d_cpu.cpp -o build/temp.linux-x86_64-3.6/sparse_conv2d/src/sparse_conv2d_cpu.o -std=c++11 -fopenmp -DTORCH_API_INCLUDE_EXTENSION_H -DTORCH_EXTENSION_NAME=sparse_conv2d_cpu -D_GLIBCXX_USE_CXX11_ABI=0

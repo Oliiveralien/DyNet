@@ -7,9 +7,12 @@ Dynamic pruning along both Spatial and Channel dimensions.
   <img src="https://github.com/Oliiveralien/DyNet/blob/main/imgs/flops_imgs.jpeg" width="70%">
 </p>
 
-put your data in ./data directory, see our dataloader.
+- put your data in ./data directory, see our dataloader.
 
-including some c++ on CUDA, see our dynconv files.
+- put pretrained weights in ./pretrained/resnet34.pth directory.
 
-- Instructions will be released ASAP~
+- including some c++ on CUDA, see our dynconv files.
+
+
+Instructions will be released ASAP~
 
